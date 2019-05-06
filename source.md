@@ -15,7 +15,7 @@
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
   
-  
+
 </p>
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -153,6 +153,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+- [BnRefreshIndicator](https://github.com/BackNotGod/BnRefreshIndicator)[1⭐] - A system based refresh & load component by [Mubai](https://github.com/BackNotGod)
+
+#### Bottom bars
+
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 
 #### Material Design
@@ -385,9 +389,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dartea](https://github.com/p69/dartea) <!--stargazers:p69/dartea--> - Model View Update inspired by TEA from ELM by [Shilyagov P](https://github.com/p69)
 - [Inject](https://github.com/google/inject.dart) <!--stargazers:google/inject.dart--> - Compile-time dependency injection by Google
 - [Flux](https://github.com/google/flutter_flux) <!--stargazers:google/flutter_flux--> - Implementation of the Flux framework by Google
- 
+- [Fish](https://github.com/alibaba/fish-redux) <!--stargazers:alibaba/fish-redux--> - Alibaba Redux implementation
+
+>>>>>>> 85cc695... add BnRefreshIndicator to UI category
 ### Widgets
- 
+
 - [Hooks](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 - [Functional widget](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
